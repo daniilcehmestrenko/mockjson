@@ -1,0 +1,19 @@
+{
+  "photo": [
+    {
+    "id": 4,
+    "image": "http://127.0.0.1:8000/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%D0%BE%D1%82_2023-01-06_15-05-20.png",
+    "metadata": {
+        "name": "name"
+      }
+  },
+  {
+    "id": 5,
+    "image": "http://127.0.0.1:8000/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%D0%BE%D1%82_2023-01-06_15-19-47.png",
+    "metadata": {
+        "a": "b",
+        "name": "name"
+      }
+  }
+  ]
+}
